@@ -152,3 +152,4 @@ st.markdown("---")
 st.markdown(
     "🎶 **Spotify Music Data Analysis Project** | Built with Streamlit"
 )
+
